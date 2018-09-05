@@ -1,6 +1,6 @@
-# dotnet core + PowerShell
+# aspnet core runtime + PowerShell
 
-Docker container with dotnet core and PowerShell
+Docker container with aspnet core runtime and PowerShell
 
 * PowerShell (6.1.0-preview.4)
 
